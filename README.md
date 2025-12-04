@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 I compile things
+
+![](https://raw.githubusercontent.com/Jyukat/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+
 
 <!--
 **Jyukat/Jyukat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
